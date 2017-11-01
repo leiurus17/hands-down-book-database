@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ISBN;datatype:string,name:Title;datatype:string,name:Author;datatype:string,name:Country;datatype:string,name:Language;datatype:string,name:Genre;datatype:string,name:Publisher;datatype:string,name:Publication_Date;datatype:string,name:Pages;datatype:string" />
+</info>
